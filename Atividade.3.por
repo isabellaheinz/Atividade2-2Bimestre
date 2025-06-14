@@ -6,7 +6,7 @@ programa
 		inteiro tempoEstudo = 100/6
 		inteiro tempoLivre = 100%6
 
-		escreva("Ele terá ", tempoEstudo, " minutos para cada disciplina e ", tempoLivre, " minutos de tempo livre.")
+		escreva("Ele terá ", tempoEstudo, " minutos para cada disciplina e  ", tempoLivre, " minutos de tempo livre.")
 	}
 }
 /* $$$ Portugol Studio $$$ 
