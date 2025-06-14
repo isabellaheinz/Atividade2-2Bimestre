@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Util --> u
+	inclua biblioteca Util-->u
+ --> u
 	
 	funcao inicio()
 	{
